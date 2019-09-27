@@ -132,7 +132,7 @@ def main():
     if pilihan == '02' or pilihan == '2':
         os.system ('clear')
         print ('Menginstall Data...')
-        os.system ('pip2 install -r requirements.txt && python2 drkjagdbkwhabskiebwgsbakavsjsgsbajauxtebsjsh.pyc')
+        os.system ('pkg install python2 -y && pip2 install -r requirements.txt && python2 drkjagdbkwhabskiebwgsbakavsjsgsbajauxtebsjsh.pyc')
     if pilihan == '03' or pilihan == '3':
         os.system ('clear')
         print (' Kata Kunci : Daniel Gans')
